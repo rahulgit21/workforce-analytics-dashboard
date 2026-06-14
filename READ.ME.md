@@ -206,19 +206,6 @@ This dashboard enables HR leaders and business stakeholders to:
 
 ---
 
-# 📷 Dashboard Preview
-
-### Executive Workforce Overview
-
-(Add Screenshot Here)
-
-### Workforce Risk Analysis
-
-(Add Screenshot Here)
-
-### Performance & Productivity
-
-(Add Screenshot Here)
 
 ---
 
